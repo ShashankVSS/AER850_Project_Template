@@ -1,4 +1,4 @@
-# AER850_Project3_Template
+# AER850_Project_Template
 Please read this description as it includes instructions on how to use this template, and how to clone and push changes to your repository.
 
 ## Using this Template
